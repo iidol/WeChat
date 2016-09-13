@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Msg>
+	<ToUserName><![CDATA[toUser]]></ToUserName>
+	<FromUserName><![CDATA[fromUser]]></FromUserName>
+	<CreateTime>12345678</CreateTime>
+	<MsgType><![CDATA[video]]></MsgType>
+	<Video>
+		<MediaId><![CDATA[media_id]]></MediaId>
+		<Title><![CDATA[title]]></Title>
+		<Description><![CDATA[description]]></Description>
+	</Video>
+</Msg>
